@@ -1,0 +1,7 @@
+# Use & or § for color/format codes. Supports all Minecraft formatting (&l &o &n &m &k &r).
+# %1$s = player display name (prefix + name + suffix), %2$s = chat message
+format: "%1$s§8 ➜ §r%2$s"
+
+# Per-world control: list world names where formatting is enabled
+# Empty list means all worlds are enabled
+enabled-worlds: []
