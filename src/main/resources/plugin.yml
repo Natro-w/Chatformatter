@@ -7,9 +7,9 @@ description: Formats chat messages using LuckPerms prefix and suffix
 depend: ["LuckPerms"]
 permissions:
   chatformat.bypass:
-    default: op
+    default: true
     description: Bypass chat format
   chatformatter.reload:
-    default: op
+    default: true
     description: Reload ChatFormatter configuration
 

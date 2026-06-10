@@ -1,3 +1,7 @@
 target/
-*.log
 *.jar
+.classpath
+.project
+.settings/
+*.iml
+.idea/
